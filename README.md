@@ -5,8 +5,6 @@ Technology : Data Analytics
 
 Domain : Healthcare
 
-Project Statement: Visualizing and Predicting Heart Diseases with an Interactive Dash Board
-
 Team Members
 
 Team Leader - 720519104004 - Alvin K Joy
