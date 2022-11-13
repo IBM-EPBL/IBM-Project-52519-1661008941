@@ -9,10 +9,8 @@ Project Statement: Visualizing and Predicting Heart Diseases with an Interactive
 
 Team Members
 
-Team Leader - 962319104085 - Sneha K S
+Team Leader - 720519104004 - Alvin K Joy
 
-Team Member 1 - 962319104054 - Lakshman Karthick S
+Team Member 1 - 720519104010 - Jeeva S
 
-Team Member 2 - 962319104057 - Meenu Priya S S
-
-Team Member 3 - 962319104098 - Vasantha Guru R
+Team Member 2 - 962319104011 - Karthik R
